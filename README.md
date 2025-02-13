@@ -74,8 +74,6 @@ Total Income: $0.00
 Total Expense: $500.00
 Net Savings: -$500.00
 Do you want to see a plot? (y/n) : y
-
-![Screenshot 2025-02-13 155837](https://github.com/user-attachments/assets/0a12d815-1af3-47a3-9ad5-33cc353ca9f4)
-
 ```
+<img>![Screenshot 2025-02-13 155837](https://github.com/user-attachments/assets/bf4f6e5a-5d1d-4f55-9148-7dee88d1f9a4)</img>
 
