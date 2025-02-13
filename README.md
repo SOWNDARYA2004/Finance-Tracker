@@ -7,7 +7,7 @@ A simple command-line-based **Personal Expense Tracker** application that allows
 - View transactions within a date range.
 - Get a summary of total income, total expenses, and net savings.
 - Visualize transactions using a **plot graph**.
-- Stores all data in `finance_data.csv` for easy tracking.
+- Stores all data in `expense_data.csv` for easy tracking.
 
 ## Installation
 Ensure you have **Python 3.x** installed on your system.
