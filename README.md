@@ -1,79 +1,14 @@
-# Expense Tracker
+# Personal-Finance-Tracker
 
-A simple command-line-based **Personal Expense Tracker** application that allows users to record and analyze their income and expenses using a CSV file.
+# 💻 Launch Your Software Development Career Today!  
 
-## Features
-- Add transactions with date, amount, category (Income/Expense), and description.
-- View transactions within a date range.
-- Get a summary of total income, total expenses, and net savings.
-- Visualize transactions using a **plot graph**.
-- Stores all data in `finance_data.csv` for easy tracking.
+🎓 **No degree? No problem!** My program equips you with everything you need to break into tech and land an entry-level software development role.  
 
-## Installation
-Ensure you have **Python 3.x** installed on your system.
+🚀 **Why Join?**  
+- 💼 **$70k+ starting salary potential**  
+- 🕐 **Self-paced:** Complete on your own time  
+- 🤑 **Affordable:** Low risk compared to expensive bootcamps or degrees
+- 🎯 **45,000+ job openings** in the market  
 
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/your-username/expense-tracker.git
-   cd expense-tracker
-   ```
-
-2. Install required dependencies:
-   ```sh
-   pip install pandas matplotlib
-   ```
-
-## Usage
-Run the main script to start tracking expenses:
-```sh
-python main.py
-```
-
-### Options:
-1. **Add a New Transaction**
-   - Enter date (`dd-mm-yyyy`) or press **Enter** for today's date.
-   - Enter the amount.
-   - Choose a category: **I** (Income) or **E** (Expense).
-   - Provide an optional description.
-
-2. **View Transactions and Summary**
-   - Enter a **start date** and **end date**.
-   - View transactions and a financial summary.
-   - Optionally, generate a plot of income vs. expenses.
-
-3. **Exit the program**
-
-## File Structure
-```
-📂 expense-tracker
-├── 📄 main.py            # Entry point for the application
-├── 📄 data_entry.py      # Functions for user input (amount, date, category, etc.)
-├── 📄 csv_handler.py     # Handles CSV operations (reading, writing transactions)
-├── 📄 finance_data.csv   # Stores transaction records
-└── 📄 README.md          # Documentation
-```
-
-## Example
-```
-1. Add a new transaction
-Enter the date of the transaction (dd-mm-yyyy) or enter for today's date: 10-02-2025
-Enter the amount: 500
-Enter the category ('I' for Income or 'E' for Expense): E
-Enter a description (optional): Grocery Shopping
-Entry added successfully.
-
-2. View transactions and summary within a date range
-Enter the start date (dd-mm-yyyy): 01-02-2025
-Enter the end date (dd-mm-yyyy): 10-02-2025
-Transactions from 01-02-2025 to 10-02-2025:
-date        amount  category  description
-10-02-2025  500.00  Expense   Grocery Shopping
-
-Summary:
-Total Income: $0.00
-Total Expense: $500.00
-Net Savings: -$500.00
-Do you want to see a plot? (y/n)
-
-```
-
+👉 **[Start your journey today!](https://techwithtim.net/dev)**  
+No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!  
