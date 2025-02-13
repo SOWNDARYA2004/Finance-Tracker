@@ -14,8 +14,8 @@ Ensure you have **Python 3.x** installed on your system.
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/expense-tracker.git
-   cd expense-tracker
+   git clone https://github.com/SOWNDARYA2004/personal-expense-tracker.git
+   cd personal-expense-tracker
    ```
 
 2. Install required dependencies:
